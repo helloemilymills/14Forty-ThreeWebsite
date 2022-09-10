@@ -1,2 +1,1 @@
-# website
-My business
+This is the website for Studio 14 Forty-Three. 
