@@ -10,9 +10,16 @@ html {
 
 button {
     border: none;
-    padding: 10px 20px;
-    border-radius: 2px;
+    border-bottom: 1px solid white;
+    padding: 10px 0px;
     font-size: 20px;
+    background: none;
+    color: white;
+    transition: 200ms ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.1);
 }
 
 #booking-cta {
@@ -27,10 +34,12 @@ button {
 }
 
 #hero-logo {
-    max-width: 50vw;
+    max-width: 75vw;
 }
 
 #buttons-container {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     margin-top: 15vh;
 }
