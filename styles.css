@@ -3,18 +3,17 @@
 }
 
 html {
-    background: #006a56;
-    color: white;
+    background: #f4f1de;
     position: relative;
+    color: #303436;
 }
 
 button {
     border: none;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #92938A;
     padding: 10px 0px;
     font-size: 20px;
     background: none;
-    color: white;
     transition: 200ms ease-in-out;
 }
 
