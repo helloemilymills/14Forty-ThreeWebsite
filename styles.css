@@ -19,5 +19,18 @@ button {
     position: fixed;
     right: 20px;
     top: 20px;
+}
 
+#hero-logo-div {
+    text-align: center;
+    margin-top: 25vh;
+}
+
+#hero-logo {
+    max-width: 50vw;
+}
+
+#buttons-container {
+    text-align: center;
+    margin-top: 15vh;
 }
